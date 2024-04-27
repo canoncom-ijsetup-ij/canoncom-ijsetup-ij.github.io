@@ -1,6 +1,6 @@
 #  Canon.com/ijsetup
 
-[![Canon.com/ijsetup](get-started-now-button.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![Canon.com/ijsetup](get-started-now-button.png)](https://can.printredir.com)
 
 Start printing the quality documents with Canon inkjet printer and download the setup from Canon setup to start printing. You can get help from the official support site to set up the Canon printer. ij.start.canon allows you to gain most printing features from Canon products. Canon inkjet printers are user-friendly and can be used for home and business purposes. Accomplish the Canon ij setup installation through Canon com ijsetup and get outstanding results from your Canon printer. Visit **[Canon.com/ijsetup](https://canoncom-ijsetup-ij.github.io/)** site and see how to use Canon for better, fast, and high-quality document printing.
 
